@@ -1,0 +1,6 @@
+{
+  "name": "HKDSE Economics: Demand, Price Ceiling & Deadweight Loss",
+  "description": "Interactive Cartesian economics teaching tool for HKDSE students to analyze how shifts in demand and binding price ceilings impact deadweight loss (DWL).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
